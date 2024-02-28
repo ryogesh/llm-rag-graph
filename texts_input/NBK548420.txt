@@ -1,0 +1,48 @@
+Cetirizine and its enantiomer levocetirizine are second generation antihistamines that are used for the treatment of allergic rhinitis, angioedema and chronic urticaria.
+Cetirizine and levocetirizine have been linked to rare, isolated instances of clinically apparent acute liver injury.
+Cetirizine (se tir' i zeen) is a second generation antihistamine (H1 receptor blocker) that is used widely to treat allergic symptoms associated with hay fever, seasonal allergies, urticaria, angioedema and atopic dermatitis.
+Levocetirizine (lee" voe se tir' i zeen) is the levorotatory R-enantiomer of cetirizine and its more active form.
+Cetirizine and levocetirizine belong to the piperazine class of antihistamines and, like other second generation antihistamines, are considered to be nonsedating.
+Indeed, prospective studies have shown that sedation is less common with cetirizine and levocetirizine than with first generation antihistamines such as diphenhydramine, but some degree of sedation may still occur.
+Cetirizine was approved for use by prescription in the United States in 1995 and as an over-the-counter medication in 2007.
+Cetirizine is currently one of the most widely used medications with more than 5 million prescriptions filled yearly in addition to considerable nonprescription use.
+Cetirizine is available in 5 and 10 mg tablets and capsules in multiple generic forms and under the trade name Zyrtec.
+Oral solutions and fixed combinations with pseudoephrine are also available.
+The typical dose of cetirizine is 5 to 10 mg once daily and it is often given chronically, at least during allergy season.
+Levocetirizine was approved for use in the United States in 2007 and is currently available by prescription only.
+Levocetirizine is available in 5 mg tablets and in an oral solution generically and under the brand name Xyzal.
+Common side effects of the second generation antihistamines include blurred vision, dry mouth and throat, palpitations, tachycardia, abdominal distress, constipation and headache.
+Although considered to be nonsedating antihistamines, cetirizine and levocetirizine can cause mild drowsiness particularly at higher doses.
+Antihistamines can worsen urinary retention and glaucoma.
+Cetirizine and levocetirizine use are not generally associated with liver enzyme elevations, but have been linked to rare instances of clinically apparent liver injury.
+In published reports, the time to onset varied widely, from 1 to 40 weeks and the pattern of injury ranged from cholestatic hepatitis to hepatocellular jaundice.
+The reported cases were mild to moderate in severity and self-limited in course with rapid recovery after stopping the medication.
+Immunoallergic and autoimmune features were rare, but recurrence of acute liver injury upon reexposure to cetirizine has been described.
+Likelihood score: C (probable rare cause of clinically apparent liver injury).
+The cause of acute liver injury from cetirizine is not known.
+It is metabolized by the liver and a toxic metabolite may account for idiosyncratic injury.
+Acute liver injury from cetirizine and levocetirizine is rare and usually self-limited.
+Acute liver failure and vanishing bile duct syndrome have not been linked to these second generation antihistamines.
+Recurrence of liver injury has been described in patients who restart cetirizine.
+There is no information about cross reactivity among the various antihistamines after clinically apparent hepatotoxicity, but switching to another agent with a different structure and belonging to a separate class is probably safe.
+References on the safety and potential hepatotoxicity of antihistamines are given together after the Overview section on Antihistamines.
+A 28 year old man developed jaundice and pruritus after having taken cetirizine (10 mg daily) for 2 years for allergic rhinitis.
+He had no previous history of liver disease, drug allergies, or risk factors for viral hepatitis.
+He drank alcohol but only on weekends, although often consuming six 12-ounce cans of beer in one sitting.
+His other medical conditions included only allergic rhinitis and episodes of sinusitis.
+His only other medications were phenylephrine nasal sprays, and he specifically denied use of other over-the-counter drugs, herbal medications or nutritional supplements.
+On examination, he was jaundiced but had no fever, rash, hepatomegaly or signs of chronic liver disease.
+Laboratory testing showed a total serum bilirubin of 9.7 mg/dL, ALT 215 U/L, AST 61 U/L, and alkaline phosphatase 260 U/L (Table).
+Test for viral hepatitis and autoimmune liver disease were negative.
+Abdominal ultrasound and endoscopic retrograde cholangiopancreatography showed no evidence of gallstones or biliary obstruction.
+He stopped cetirizine at the time of presentation and was treated with hydroxyzine for control of pruritus.
+However, jaundice and pruritus persisted, and a liver biopsy was done which showed zone 3 cholestasis and mild hepatic necrosis and inflammation compatible with drug induced liver injury.
+There was no steatosis or changes suggestive of alcohol related liver injury.
+He was started on ursodiol and improved slowly, but serum enzymes and bilirubin remained slightly elevated at the time of the last follow up visit.
+A young man developed severe jaundice and pruritus after taking cetirizine for allergic rhinitis for several years.
+He denied taking other medications and had no clinical, serologic or radiologic evidence for viral hepatitis, autoimmune liver disease or biliary tract disease.
+A liver biopsy showed marked cholestasis but little or no inflammation, steatosis or fibrosis.
+The clinical phenotype might be best described as "bland cholestasis" which raises the possibility of unacknowledged use of anabolic steroids.
+The prolonged jaundice and pruritus also favors this diagnosis and the cetirizine may have been used as a cover for the illicit use of body building drugs.
+Actually cetirizine is closely related to and metabolized to hydroxyzine (another member of the piperazine class of antihistamines), which he was given during the episode of jaundice because of pruritus.
+This report, like other case reports of cetirizine hepatotoxicity, is not totally convincing.
